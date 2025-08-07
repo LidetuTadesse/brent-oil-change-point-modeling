@@ -1,0 +1,30 @@
+Python
+pycache/
+*.pyc
+
+Jupyter Notebooks
+.ipynb_checkpoints
+
+Environments
+.env
+.venv/
+*.env
+
+Data
+*.csv
+!data/README.md
+
+Logs and output
+*.log
+*.out
+*.h5
+
+OS files
+.DS_Store
+Thumbs.db
+
+VSCode
+.vscode/
+
+Node (for dashboard frontend)
+node_modules/
